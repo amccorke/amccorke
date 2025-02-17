@@ -3,7 +3,8 @@
 # 👋 Hi, I'm [Alex McCorkel]!
 
 ## 🌟 About Me
-I am a mathematics and psychology student with a passion for data analytics. Currently, I am working on [current projects or learning goals].
+I am a mathematics and psychology student with a passion for data analytics. Currently, I am working is if there is a correlation between building density, urban morphology, and UHI intensity? How do variations in building height contribute to temperature differences?
+
 
 ## 🚀 Interests & Hobbies
 - 🖥️ Coding  
