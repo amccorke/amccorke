@@ -14,11 +14,11 @@ I am a mathematics and psychology student with a passion for data analytics. Cur
 
 ## 🛠 Skills & Expertise
 - **Programming Languages:** Python, JavaScript, C++, MATLAB, RStudio
-- **Frameworks:** React, Node.js, Django  
+- **Frameworks:**  
 - **Tools:** Git, VS Code  
 - **Other:** Problem-Solving, Teamwork, Public Speaking  
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me (These are just links to the sits...will update once I have accounts for these). 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourusername)  
